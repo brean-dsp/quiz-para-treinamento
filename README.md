@@ -49,4 +49,3 @@ Você pode dar uma olhada nesse link e separar uma palheta que combine com sua i
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
-# quiz-para-treinamento
